@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirstKotlinProject</string>
+    <string name="birthday_message">Happy birthday Rahul</string>
+    <string name="from_message">- from Rahul</string>
+</resources>
